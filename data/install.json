@@ -1,0 +1,10 @@
+{
+    "pkgs": [
+      "bluez",
+      "bluez-utils"
+    ],
+    "services": [
+      "bluetooth"
+    ],
+    "hostname":"drk-bs-mobile-client"
+  }
