@@ -1,4 +1,6 @@
 {
+  "after_install_pkgs": [
+  ],
     "aur_pkgs": [
       "teamviewer",
       "evdi-compat-git",
